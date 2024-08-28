@@ -1,0 +1,1 @@
+# isagro-vertical-empilhada
